@@ -15,6 +15,7 @@ Django3.0でAWS Cognitoとのシングルサインオン実現したプロジェ
 
 
 ライブラリサイト：https://github.com/MetaMetricsInc/django-warrant
+
 紹介サイト：https://makoto-job.blog.ss-blog.jp/2021-05-04
 
 

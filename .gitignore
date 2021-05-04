@@ -1,0 +1,5 @@
+venv
+.git/
+cognito_prj/develop/
+cognito_prj/db.sqlite3
+cognito_prj/develop/development.py
